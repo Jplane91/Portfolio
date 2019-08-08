@@ -1,0 +1,34 @@
+body
+{
+    background: url(AboutMe.png);
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    padding-top: 200px; 
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #000000;
+    
+}
+
+div button
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 20px;
+    margin-top: 280px;
+    height: 50px;
+    width: 120px;
+    background: transparent;
+    border-width: 5px;
+   
+}
+
+div button:hover
+{
+    background-color:blue;
+}
+
+
+
